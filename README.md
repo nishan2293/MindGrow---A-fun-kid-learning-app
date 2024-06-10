@@ -12,7 +12,20 @@ You can clone this repository or import the project from Android Studio followin
 
 ## Screenshots
 
-<img src="screenshots/screenshots.png" alt="Screenshot">
+### HomeScreen
+<img width="200" alt="image" src="https://github.com/nishan2293/MindGrow---A-fun-kid-learning-app/assets/157925518/5302ae80-7b41-40fd-abea-f030ae898a12">
+
+### Dictionary
+<img width="200" alt="image" src="https://github.com/nishan2293/MindGrow---A-fun-kid-learning-app/assets/157925518/94b1dce8-9a95-419a-86ec-a51da7b1b34b">
+
+### Explain an image
+<img width="200" alt="image" src="https://github.com/nishan2293/MindGrow---A-fun-kid-learning-app/assets/157925518/3a48ab13-3895-43c7-9c23-79cf8ee75361">
+
+### Chat
+<img width="200" alt="image" src="https://github.com/nishan2293/MindGrow---A-fun-kid-learning-app/assets/157925518/3363bbee-ddb3-4ef9-beea-80778b0ce2b0">
+
+### Practice 
+<img width="200" alt="image" src="https://github.com/nishan2293/MindGrow---A-fun-kid-learning-app/assets/157925518/183a0547-49d1-418c-9630-2b2b2dca0752">
 
 ## Requirements
 
